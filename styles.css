@@ -21,8 +21,6 @@
     display: flex;
     flex-direction: column;
     margin-top: 50px;
-    padding-left:15px;
-    padding-right:15px;
 }
 
 .main h1 {
@@ -89,4 +87,8 @@ p {
         .footer {
             margin-top: 100px;
         }
+    
+    .main {
+        padding-left:15px;
+        padding-right:15px;
 }
