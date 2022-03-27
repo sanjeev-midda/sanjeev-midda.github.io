@@ -25,7 +25,7 @@
 
 .main h1 {
     /* font-size: 300px; */
-    font-size: 20em;
+    font-size: 30vw;
 }
 
 
@@ -85,13 +85,6 @@ p {
         .footer {
             margin-top: 100px;
         }
-    
-        
-           }
-    .main h1 {
-    /* font-size: 300px; */
-    font-size: 10em;
-}
     
 }
     
