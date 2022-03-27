@@ -55,7 +55,7 @@ p {
     padding:0px;
 }
 
-@media screen and (max-width: 667px){
+@media screen and (max-width: 375px){
 
     p {
         font-size: 2em;
